@@ -1,0 +1,7 @@
+MDKProject/Objects/*
+MDKProject/Listings/*
+MDKProject/JLinkLog\.txt
+MDKProject/JLinkSettings\.ini
+MDKProject/EventRecorderStub\.scvd
+MDKProject/SX126xDriver\.uvguix\.*
+
